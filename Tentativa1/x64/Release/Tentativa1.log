@@ -1,0 +1,43 @@
+﻿  Tentativa1.cpp
+D:\tools\tflite-dist\include\tensorflow\lite\c\common.h(104,7): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\tools\tflite-dist\include\tensorflow\lite\c\common.h(104,7): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\tools\tflite-dist\include\tensorflow\lite\c\common.h(144,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\tools\tflite-dist\include\tensorflow\lite\c\common.h(144,9): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(17,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(33,30): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(33,24): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(33,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(33,43): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(34,71): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\Tentativa1\Tentativa1.cpp(34,65): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  13 of 213 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tentativa1.vcxproj -> C:\Users\tiago\OneDrive\Desktop\Universidade\Tese\Exemplos\Tentativa1\x64\Release\Tentativa1.exe
